@@ -1,0 +1,1611 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="19098_高等数学(上)的授课计划_游晓黔(1).files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>胡学刚</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>USER</o:LastAuthor>
+  <o:Revision>88</o:Revision>
+  <o:TotalTime>744</o:TotalTime>
+  <o:Created>2006-09-20T09:12:00Z</o:Created>
+  <o:LastSaved>2016-09-18T10:11:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>402</o:Words>
+  <o:Characters>2292</o:Characters>
+  <o:Company>CQUPT</o:Company>
+  <o:Lines>19</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2689</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="19098_高等数学(上)的授课计划_游晓黔(1).files/themedata.thmx">
+<link rel=colorSchemeMapping
+href="19098_高等数学(上)的授课计划_游晓黔(1).files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>190</w:Zoom>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:ApplyBreakingRules/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" LatentStyleCount="267">
+  <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="99" Name="No List"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-unhide:no;
+	mso-style-link:"页眉 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-unhide:no;
+	mso-style-link:"页脚 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p
+	{mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+span.Char
+	{mso-style-name:"页眉 Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页眉;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+span.Char0
+	{mso-style-name:"页脚 Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页脚;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-font-kerning:0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("19098_高等数学\(上\)的授课计划_游晓黔\(1\).files/header.htm") fs;
+	mso-footnote-continuation-separator:url("19098_高等数学\(上\)的授课计划_游晓黔\(1\).files/header.htm") fcs;
+	mso-endnote-separator:url("19098_高等数学\(上\)的授课计划_游晓黔\(1\).files/header.htm") es;
+	mso-endnote-continuation-separator:url("19098_高等数学\(上\)的授课计划_游晓黔\(1\).files/header.htm") ecs;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="24578"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;margin-right:
+1.25pt;mso-margin-bottom-alt:auto;mso-margin-top-alt:auto;mso-para-margin-right:
+.12gd;mso-margin-bottom-alt:auto;text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:#333333'>重庆邮电大学教师授课计划</span></b><span
+lang=EN-US><u1:p></u1:p></span></p>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;margin-right:
+1.25pt;mso-margin-bottom-alt:auto;mso-margin-top-alt:auto;mso-para-margin-right:
+.12gd;mso-margin-bottom-alt:auto;text-align:center;tab-stops:20.0cm 675.0pt'><span
+style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+mso-hansi-font-family:Verdana;color:#333333'>填表老师</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";color:#333333'>:</span><span
+style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+mso-hansi-font-family:Verdana;color:#333333'>游晓黔</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";color:#333333'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:#333333'>填表时间</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+color:#333333'>:2016.09.18</span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:18.0pt;border-collapse:collapse;mso-yfti-tbllook:480;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=151 valign=top style='width:4.0cm;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>学年学期</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:16-17(1<u1:p></u1:p>)</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=144 valign=top style='width:108.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>课程编号</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:040401<u1:p></u1:p></span><span lang=EN-US style='font-size:
+  12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=249 colspan=2 valign=top style='width:186.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>课程名称</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>高等数学</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>(</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>上</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>)<u1:p></u1:p></span><span lang=EN-US style='font-size:12.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=151 valign=top style='width:4.0cm;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>年级</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:2016</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>级</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=144 valign=top style='width:108.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>专业</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:</span><span lang=EN-US style='font-size:12.0pt;font-family:
+  宋体;mso-bidi-font-family:宋体'> </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;
+  color:#333333'>软件工程类</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=144 valign=top style='width:108.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>学时</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>/</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>学分</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:88/5.5 <u1:p></u1:p></span><span lang=EN-US style='font-size:
+  12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=105 valign=top style='width:78.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>理论学时</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:88</span><span lang=EN-US style='font-size:12.0pt;font-family:
+  宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=151 valign=top style='width:4.0cm;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>实验学时</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:0<u1:p></u1:p></span><span lang=EN-US style='font-size:12.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=393 colspan=3 valign=top style='width:294.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>教材名称及出版社</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>:</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>高等数学</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>(</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>第七版</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>)</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>上册，高等教育出版社</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>&nbsp;</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width=544 colspan=4 valign=top style='width:408.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>适用专业</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>: </span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>先进制造类</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='margin-left:17.6pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;
+ mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:47.3pt'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.3pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>序号</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><u1:p></u1:p><o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:47.3pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>周次</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><u1:p></u1:p><o:p></o:p></span></p>
+  </td>
+  <td width=116 style='width:86.8pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:47.3pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>授课内容摘要</span><span lang=EN-US><u1:p></u1:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>(</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>含授课内容</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>,</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>参考书</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>,</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>自学提纲</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>,</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>学习方法等</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'>)</span><span lang=EN-US style='font-size:12.0pt;font-family:
+  宋体;mso-bidi-font-family:宋体'><u1:p></u1:p><o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:47.3pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-hansi-font-family:Verdana;color:#333333'>课内<u1:p></u1:p>学时</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><u1:p></u1:p><o:p></o:p></span></p>
+  </td>
+  <td width=189 style='width:5.0cm;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:47.3pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>重点及要求</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><u1:p></u1:p><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 style='width:115.9pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.3pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;color:#333333'>课外作业</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"Verdana","sans-serif";
+  color:#333333'><u1:p></u1:p><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>&nbsp;</u1:p>1<u1:p></u1:p>&nbsp;</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>2&nbsp;</u1:p></span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'><u1:p>学前引言</span><span lang=EN-US>;</span></p>
+  <p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>映射与函数</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>6</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'><u1:p>了解各种映射的概念</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>;&nbsp;</u1:p></span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握函数性质</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解基本初等函数与初等函数概念</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>会求函数的定义域</span><span lang=EN-US>.</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><u1:p>P168:1(8),4(2);6;7(6);8(3),(5);</span></p>
+  <p class=MsoNormal><span lang=EN-US>9(5),(6);11(2);&nbsp;12;15;18; </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>&nbsp;</u1:p>2<u1:p></u1:p>&nbsp;</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>3</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'><u1:p>数列的极限</span><span lang=EN-US>;</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>&nbsp;</u1:p></span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>函数的极限</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>无穷小与无穷大</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>极限的运算法则</span><span lang=EN-US>.</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>&nbsp;</u1:p>6</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:left'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'><u1:p>理解数列极限、函数极限的概念，理解函数极限的概念，掌握极限的运算法则</span><span
+  lang=EN-US>;</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>理解无穷大、无穷小的概念</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><u1:p>P26:5(2);6;7;</span></p>
+  <p class=MsoNormal><span lang=EN-US>P33-34:4;5(3);10</span></p>
+  <p class=MsoNormal><span lang=EN-US>P37-38: 5;6; &nbsp;</span></p>
+  <p class=MsoNormal style='margin-left:0cm;mso-para-margin-left:-.1gd;
+  text-indent:-1.05pt;mso-char-indent-count:-.1;tab-stops:0cm'><span
+  lang=EN-US>P45:1(2)(4)(6)(8)(10)</span></p>
+  <p class=MsoNormal style='margin-left:0cm;mso-para-margin-left:-.1gd;
+  text-indent:-1.05pt;mso-char-indent-count:-.1;tab-stops:0cm'><span
+  lang=EN-US>(14);2;3;5</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>3<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'></u1:p>4<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>极限存在准则，两个重要极限</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>无穷小的比较</span><span lang=EN-US>.</span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'></u1:p>掌握两个重要极限的应用</span><span lang=EN-US>;</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>理解</span><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>无穷小的比较</span><span
+  lang=EN-US>;</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>会用等价无穷小的性质求两个无穷小之比的极限</span><span
+  lang=EN-US>;</span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>P52:1(2)(4)(5)(6);</span></p>
+  <p class=MsoNormal><span lang=EN-US>2(2)(4);4(2)(3)(4)</span></p>
+  <p class=MsoNormal><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;</span>P55-56:2 ;3 ;4;5</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>4<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>5<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>函数的连续性与间断点</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>连续函数的运算与初等函数的连续性</span><span lang=EN-US>.</span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解函数的连续与间断</span><span lang=EN-US>;</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>理解初等函数的连续性</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'>;</span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>P61:2; 3;4 </span></p>
+  <p class=MsoNormal><span lang=EN-US>P65-66:1;2;3;4;5;6</span></p>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>5&nbsp;</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>6</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><u1:p><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>闭区间上连续函数的性质</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>导数概念</span><span lang=EN-US>.</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>&nbsp;</u1:p>6</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><u1:p>&nbsp;</u1:p></span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握闭区间上连续函数的性质</span><span lang=EN-US>&nbsp;;&nbsp;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解导数概念及几何意义，掌握可导与连续的关系</span><span lang=EN-US>;</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><u1:p>P70:1; 2</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>，</span><span lang=EN-US>3</span><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>，</span><span
+  lang=EN-US>5</span></p>
+  <p class=MsoNormal><span lang=EN-US>P70-72:1;2;3;4;5;10;11;12;14;</span></p>
+  <p class=MsoNormal><span lang=EN-US>P83:3;6;7;8;11;13;16;17;19;20&nbsp;</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>7<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>函数的求导运算法则</span><span lang=EN-US style='mso-bidi-font-size:
+  10.5pt'> ;</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>高阶导数</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>隐函数及由参数方程所确定的函数的导数</span><span lang=EN-US>.</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>熟练掌握求导公式、求导运算法则及反函数和复合函数求导法</span><span lang=EN-US>;</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'> </span><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>会求高阶导数</span><span
+  lang=EN-US>;</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>掌握隐函数求导法</span><span lang=EN-US>;</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>P94-96: 2; 3(2)(3); 4; 6; 7 ;8;9; 10;11
+  (4) (8) ;14;</span></p>
+  <p class=MsoNormal><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;</span>P100:1;3;4;8;9</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P109-110:
+  1;&nbsp;3;4;5 ; 6; 7; 8;&nbsp; 10 ; 12&nbsp;</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>7<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>8<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>函数的微分</span><span lang=EN-US>; </span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>习题课</span><span lang=EN-US>;</span><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>微分中值定理</span><span
+  lang=EN-US>.</span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解微分概念，掌握微分与导数的关系</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>熟悉微分的应用</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握中值定理及其应用，</span><span lang=EN-US style='mso-bidi-font-size:
+  10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>P120-122:2;3<span
+  style='mso-spacerun:yes'>&nbsp; </span>;4;5;7(1);10</span></p>
+  <p class=MsoNormal><span lang=EN-US>P122-124:1;2;7;8;9;11;12;17;</span></p>
+  <p class=MsoNormal><span lang=EN-US>P132:6;7;8; 9;10;14</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>8<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>9<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>罗必达法则</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>泰勒公式</span><span lang=EN-US>; </span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>函数单调性与曲线的凹凸性</span><span lang=EN-US>.</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>熟练掌握罗必达法则，理解泰勒展式及应用</span><span lang=EN-US>&nbsp;; </span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握函数单调性与曲线的凹凸性</span><span lang=EN-US style='mso-bidi-font-size:
+  10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>P137:1;2;3</span></p>
+  <p class=MsoNormal><span lang=EN-US>P143:1;4;7</span></p>
+  <p class=MsoNormal><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;</span>P150:3;4;5;6; 9;10;12;13;14</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:42.05pt'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>9<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>10<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>函数的极值与最值</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>函数作图</span><span lang=EN-US> ;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>曲率</span><span lang=EN-US>;</span><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>方程的近似解</span><span
+  lang=EN-US>;</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>习题课</span><span lang=EN-US>.</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt'>
+  <p class=MsoNormal style='margin-bottom:12.0pt;mso-para-margin-bottom:1.0gd'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握函数单调性与极值的判别法</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>会判定曲线的凹凸性</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>了解函数图形的作法</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解弧微分</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>了解曲率及其计算公式</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>了解求方程近似解的两种方法</span><span lang=EN-US>;</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.05pt'>
+  <p class=MsoNormal><span lang=EN-US>P161:1(5)(9);2; 3;5;10;14;15</span></p>
+  <p class=MsoNormal><span lang=EN-US>P167:2 </span></p>
+  <p class=MsoNormal><span lang=EN-US>P176:4;5;7;8</span></p>
+  <p class=MsoNormal><span lang=EN-US>P181-183:1;2;3;5;12;19;20</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>10<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>11<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>不定积分的概念与性质</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>不定积分的换元积分法</span><span lang=EN-US>.</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解原函数与不定积分概念</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握基本积分公式，熟练掌握利用换元法求不定积分</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P192:2
+  (5)(12)(14) (20)(23)(25) (26); 3;5</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P207&nbsp;:
+  2</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>11<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>12<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>不定积分的分部积分法</span><span lang=EN-US> ;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>有理函数的积分</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>积分表的使用</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>定积分概念与性质</span><span lang=EN-US>.</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>熟练掌握用分部积分法求不定积分</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>了解积分表的使用方法</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解定积分的概念</span><span lang=EN-US>,</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握其性质</span><span lang=EN-US>;</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P212&nbsp;:4;5;9;14;18;20;21;22
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P218:3;6;8;9;13;15;17;18;20;21</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P222-223:3;4(1)-(40)</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P236:3;4;5;7;10;12;13
+  </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>12<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>13<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>微积分基本公式</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>定积分的换元法</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>定积分的分部积分法</span><span lang=EN-US>.</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握微积分基本公式和积分上限函数求导法</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握定积分的换元法与分部积分法</span><span lang=EN-US style='mso-bidi-font-size:
+  10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P244:2;3;4;5(3);6(8)(11)(12);9(2);10;12;14;
+  16</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;</span>P254&nbsp;:1;6;7;</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>13<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>14<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>反常积分</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>习题课</span><span lang=EN-US>;</span><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>定积分在几何上的应用</span><span
+  lang=EN-US>.</span><span lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>会求简单的反常积分</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>会应用元素法解决求平面图形的面积、立体的体积、平面曲线的弧长</span><span lang=EN-US>.</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P262:1(4)(5)(6);2;3</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P270-273:1;2;4;5;7;8;10;</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>11;12;13</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P286:2(1)(3);3;
+  4;5(2)(3);8 (2); 9;10;22;25;27;30</span><span lang=EN-US style='mso-bidi-font-size:
+  10.5pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>14<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>15<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>定积分在物理上的应用</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>微分方程的基本概念</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>可分离变量的违法方程</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>齐次方程</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>一阶线性微分方程</span><span lang=EN-US>.</span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>会应用元素法求功、水压力和引力</span><span lang=EN-US>;&nbsp;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>理解微分方程的基本概念</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握可分离变量与齐次微分方程的求解方法</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握一阶线性微分方程的求解方法</span><span lang=EN-US>.</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P293:2;3;5;9;</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P294-296:2;3;4;9</span></p>
+  <p class=MsoNormal><span lang=EN-US>P301:5;6</span></p>
+  <p class=MsoNormal><span lang=EN-US>P308:1;2;6</span></p>
+  <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>P314:1;2;3</span></p>
+  <p class=MsoNormal><span lang=EN-US>P320:1;2;4;7</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>15<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>16<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>可降阶的高阶微分方程</span><span lang=EN-US>;</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>高阶线性微分方程</span><span lang=EN-US>;</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>常系数齐次线性微分方程</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'>.</span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>6<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>掌握三类可降阶的高阶微分方程的求解方法，理解高阶线性微分方程解得性质</span><span lang=EN-US>;</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>掌握常系数齐次线性微分方程通解的求法</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>.</span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>P328:1,2,3 </span></p>
+  <p class=MsoNormal><span lang=EN-US>P337:2;3;4</span></p>
+  <p class=MsoNormal><span lang=EN-US>P346:1;2;3 </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td width=29 colspan=2 style='width:21.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>16<o:p></o:p></span></p>
+  </td>
+  <td width=28 style='width:21.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span lang=EN-US style='mso-bidi-font-size:10.5pt'>17<o:p></o:p></span></p>
+  </td>
+  <td width=116 valign=top style='width:86.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>常系数非齐次线性微分方程</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'>.<o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>总复习</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+  <td width=28 valign=top style='width:21.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>4<o:p></o:p></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>掌握常系数非齐次线性微分方程特解的求法</span><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt'>.<o:p></o:p></span></p>
+  </td>
+  <td width=155 colspan=2 valign=top style='width:115.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>P354</span><span style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>，</span><span
+  lang=EN-US>1;2;5;6</span></p>
+  <p class=MsoNormal><span lang=EN-US>P360:1;3;5;6;7;8</span><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;mso-row-margin-left:3.55pt;mso-row-margin-right:
+  5.05pt'>
+  <td style='mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm'
+  width=5><p class='MsoNormal'>&nbsp;</td>
+  <td width=533 colspan=6 style='width:399.9pt;border:none;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm'
+  width=7><p class='MsoNormal'>&nbsp;</td>
+ </tr>
+ <tr style='mso-yfti-irow:18;mso-row-margin-left:3.55pt;mso-row-margin-right:
+  5.05pt'>
+  <td style='mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm'
+  width=5><p class='MsoNormal'>&nbsp;</td>
+  <td width=533 colspan=6 style='width:399.9pt;border:none;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>主讲老师：</span><u><span
+  lang=EN-US>_____</span></u><u><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>游晓黔</span><span
+  lang=EN-US>_<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span></u><span
+  lang=EN-US>_<span style='mso-spacerun:yes'>&nbsp; </span></span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>；</span><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>辅导教师：</span><u><span
+  lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></u><u><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>游晓黔</span><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></u><span lang=EN-US style='font-size:12.0pt;font-family:宋体;
+  mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td style='mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm'
+  width=7><p class='MsoNormal'>&nbsp;</td>
+ </tr>
+ <tr style='mso-yfti-irow:19;mso-yfti-lastrow:yes;mso-row-margin-left:3.55pt;
+  mso-row-margin-right:5.05pt'>
+  <td style='mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm'
+  width=5><p class='MsoNormal'>&nbsp;</td>
+  <td width=533 colspan=6 style='width:399.9pt;border:none;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>教研室主任签名</span><span lang=EN-US>___<u>_<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>_<span style='mso-spacerun:yes'>&nbsp; </span>__</u>_</span><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>二级学院院长签名</span><span lang=EN-US>___<u><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></u>____</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>授课人数</span> <u><span lang=EN-US>108<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span></u><span
+  lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+  </td>
+  <td style='mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm'
+  width=7><p class='MsoNormal'>&nbsp;</td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=5 style='border:none'></td>
+  <td width=25 style='border:none'></td>
+  <td width=28 style='border:none'></td>
+  <td width=116 style='border:none'></td>
+  <td width=28 style='border:none'></td>
+  <td width=189 style='border:none'></td>
+  <td width=254 style='border:none'></td>
+  <td width=11 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+
+<p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+lang=EN-US style='mso-font-kerning:0pt'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
